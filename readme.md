@@ -12,11 +12,9 @@ Yes! choose what style sheets you want included and compile them using Gulp, it'
 ### Contact
 [Say hi ! Drop my an email.](mailto:iam@quirkee.sg)
 
-- Or catch me else where -
-
-* Website: http://quirkee.sg
-* Codepen: http://codepen.io/iamquirkee
-* Github: https://github.com/iamquirkee
+Website: http://quirkee.sg
+Codepen: http://codepen.io/iamquirkee
+Github: https://github.com/iamquirkee  
 
 ### License
 Hooray for free stuff !
