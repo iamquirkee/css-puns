@@ -1,0 +1,149 @@
+/***
+ *                                __
+ *        ____  ___  ____  ____  / /__
+ *       / __ \/ _ \/ __ \/ __ \/ / _ \
+ *      / /_/ /  __/ /_/ / /_/ / /  __/
+ *     / .___/\___/\____/ .___/_/\___/
+ *    /_/              /_/
+ */
+
+#anneFrank {
+  visibility: hidden;
+}
+
+#arnold-schwarzenegger {
+  &body {
+    display: flex;
+  }
+}
+
+#autobots {
+  transform: translate3d();
+}
+
+.bambis-mom {
+  cursor: crosshair;
+  orphans: 1;
+}
+
+#bruce-banner {
+  color: pink;
+  transition: color 10s;
+  &.the-hulk,
+  &.angry {
+    color: green;
+    content: 'rage';
+  }
+}
+
+#chuck-norris {
+  color: #BADA55;
+}
+
+#harry-potter {
+  .invisibility-cloak {
+    visibility: hidden;
+  }
+  + #mad-eye-moody {
+    visibility: visible !important;
+  }
+}
+
+.husband {
+  position: relative;
+  right: 0;
+  style: none;
+  padding: inherit !important;
+}
+
+.jackson {
+  color: black;
+  &#janet {
+    color: inherit;
+  }
+  &#michael {
+    color: white !important;
+  }
+}
+
+#kim-kardashian {
+  padding-bottom: 9999px;
+}
+
+#kkk {
+  color: white !important;
+  white-space: inherit;
+}
+
+.leprechaun {
+  height: 40%;
+  color: green;
+  display: none;
+}
+
+.lord-of-the-rings.hobbit {
+  height: 50%;
+  #foot {
+    width: 200%;
+  }
+}
+
+#luke-skywalker {
+  #right-hand {
+    display: none;
+  }
+}
+
+.monarch {
+  position: inherit;
+}
+
+.ninja {
+  visibility: hidden;
+  color: black;
+  animation-duration: 0.00001s;
+}
+
+.oliver-queen {
+  cursor: arrow;
+}
+
+#optimus-prime {
+  transform: initial;
+}
+
+.politicians {
+  position: relative;
+}
+
+.the-rich {
+  top: 1%;
+}
+
+#thomas-wayne,
+#martha-wayne {
+  orphans: 1;
+}
+
+#trump {
+  #brain {
+    content: "";
+  }
+}
+
+.vampire {
+  -webkit-box-reflect: none;
+}
+
+.wife {
+  right: 100%;
+  margin: 0%;
+}
+
+.working-class {
+  bottom: 99%;
+}
+
+.yomomma {
+  width: 99999999px;
+}

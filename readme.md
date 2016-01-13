@@ -11,3 +11,7 @@ Yes! choose what style sheets you want included and compile them using Gulp, it'
 
 ### Contact
 [Say hi ! Drop my an email.](mailto:iam@quirkee.sg)
+
+### License
+Hooray for free stuff !
+[MIT License](https://github.com/iamquirkee/css-puns/blob/master/LICENSE)

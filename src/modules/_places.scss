@@ -1,0 +1,56 @@
+/***
+ *               __
+ *        ____  / /___ _________  _____
+ *       / __ \/ / __ `/ ___/ _ \/ ___/
+ *      / /_/ / / /_/ / /__/  __(__  )
+ *     / .___/_/\__,_/\___/\___/____/
+ *    /_/
+ */
+
+#australia {
+  transform: rotateY(180deg);
+}
+
+#berlin-1989 {
+  border: none;
+}
+
+#berlin-wall {
+  height: 0;
+  border-collapse: collapse;
+}
+
+#bermuda-triangle {
+  display: none;
+}
+
+#china {
+  border-top-style: solid;
+}
+
+#europe {
+  &.country {
+    border: none;
+  }
+}
+
+#north-korea {
+  border-style: solid;
+}
+
+.tower-of-pisa {
+  font-style: italic;
+}
+
+#twin-towers {
+  clear: both;
+}
+
+#usa + #mexico,
+#mexico + #usa {
+  border: 1px solid;
+}
+
+#universe {
+  border: none;
+}

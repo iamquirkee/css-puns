@@ -1,0 +1,26 @@
+/***
+ *        ____                __
+ *       / __/___  ____  ____/ /
+ *      / /_/ __ \/ __ \/ __  /
+ *     / __/ /_/ / /_/ / /_/ /
+ *    /_/  \____/\____/\__,_/
+ *
+ */
+
+.donut {
+  content: 'jelly';
+}
+
+.egg {
+  &:before {
+    content: 'chicken';
+  }
+}
+
+.muffins-ready {
+  overflow-y: visible;
+}
+
+.wine{
+  color: red;
+}

@@ -1,0 +1,145 @@
+/***
+ *       __  __    _
+ *      / /_/ /_  (_)___  ____ ______
+ *     / __/ __ \/ / __ \/ __ `/ ___/
+ *    / /_/ / / / / / / / /_/ (__  )
+ *    \__/_/ /_/_/_/ /_/\__, /____/
+ *                     /____/
+ */
+
+#big-bang:before {
+  content: "";
+}
+
+.belly {
+  overflow: visible;
+}
+
+.bottle-of-beer {
+  &.party {
+    &:after {
+      content: none;
+    }
+    &:before {
+      content: normal;
+    }
+  }
+}
+
+.check {
+  background: url("records/criminal.gif") repeat;
+}
+
+.defibrillator {
+  clear: both;
+}
+
+#delorean {
+  z-index: -1955;
+}
+
+.fear {
+  display: none;
+}
+
+.gangsta-rap {
+  word-spacing: 0;
+}
+
+.ghost {
+  opacity: 0.1;
+}
+
+.government {
+  transition: all 4 yr ease-out;
+}
+
+.hangover {
+  repeat: never;
+  overflow: auto;
+}
+
+.hill-billy-sex {
+  position: relative;
+}
+
+#ikea {
+  display: table;
+}
+
+#illuminati {
+  position: absolute;
+  visibility: hidden;
+}
+
+.infinity-edge-pool {
+  overflow: hidden;
+}
+
+.internet-explorer {
+  break-inside: auto;
+}
+
+.lego {
+  display: block;
+}
+
+.minecraft {
+  display: block;
+}
+
+.muscles {
+  display: flex;
+}
+
+#nsa {
+  opacity: 1;
+}
+
+.periodic {
+  display: table;
+}
+
+.religious-upbringing {
+  perspective: inherit;
+  flex: none;
+}
+
+.rip {
+  bottom: -6912px;
+}
+
+.roundhousekick {
+  transform: rotateY(360deg);
+}
+
+.single-lane-road {
+  width: auto;
+}
+
+.sniper-mode-engaged {
+  cursor: crosshair;
+}
+
+#titanic {
+  position: relative;
+  top: 0;
+  float: relative;
+  &:after {
+    position: absolute;
+    top: 10000000000000000px;
+    float: none;
+    display: none;
+  }
+}
+
+.thumbs {
+  vertical-align: top;
+}
+
+.zeppelin {
+  float: initial;
+  &#hinderburg {
+    float: none;
+  }
+}
